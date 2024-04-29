@@ -1,0 +1,22 @@
+.table {
+    border-collapse: collapse;
+    width: 700px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tableTitle {
+    background-color: #222121;
+    color: white;
+}
+.tableBody, .tableTitle {
+    border: 1px solid #060606;
+    padding: 8px;
+    text-align: center;
+}
+
+.tableList:nth-child(even) {
+    background-color: #dad7d7;
+}
+
