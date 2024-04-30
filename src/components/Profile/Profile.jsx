@@ -1,4 +1,3 @@
-import clsx from "clsx";
 import css from "./Profile.module.css";
 
 export default function Profile({
